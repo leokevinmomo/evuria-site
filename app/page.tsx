@@ -57,7 +57,7 @@ export default function EvuriaLandingPage() {
               Appeler maintenant
             </a>
             <a
-              href="https://wa.me/18733779297"
+              href="https://api.whatsapp.com/send?phone=18433779297&text=Bonjour%20Evuria%2C%20j%E2%80%99ai%20un%20probl%C3%A8me%20informatique%20et%20j%E2%80%99ai%20besoin%20d%E2%80%99une%20intervention%20rapide.%20Pouvez-vous%20me%20prendre%20en%20charge%20%3F"
               className="border border-white px-6 py-3 rounded-xl"
             >
               WhatsApp
