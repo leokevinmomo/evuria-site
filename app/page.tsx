@@ -109,7 +109,7 @@ export default function EvuriaLandingPage() {
 
         <div className="mt-6 flex justify-center gap-4 flex-wrap">
           <a
-            href="tel:18433779297"
+            href="tel:18733779297"
             className="bg-[#4da3ff] text-black px-6 py-3 rounded-xl font-semibold"
           >
             Appeler
@@ -128,7 +128,7 @@ export default function EvuriaLandingPage() {
         <h2 className="text-3xl font-bold">Contact</h2>
 
         <div className="mt-6 space-y-2 text-gray-300">
-          <div>📞 843-377-9297</div>
+          <div>📞 873-377-9297</div>
           <div>📧 contact@evuria.ca</div>
           <div>📍 Centre du Québec</div>
         </div>
